@@ -1,0 +1,7 @@
+<!-- $private_universities =  $pokemon_doc->getElementsByTagName('table')->item(1) ;
+$international_universities  =  $pokemon_doc->getElementsByTagName('table')->item(2) ;
+$special_universities  =  $pokemon_doc->getElementsByTagName('table')->item(3) ;
+print_doc($private_universities,7);
+		print_doc($international_universities,5);
+		print_doc($special_universities,5); -->
+?>
